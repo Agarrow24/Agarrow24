@@ -2,3 +2,4 @@ pomme
 fraise
 banane
 poire 
+Ananas
