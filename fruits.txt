@@ -2,3 +2,5 @@ pomme
 fraise
 banane
 litchi
+poire 
+Kiwi
