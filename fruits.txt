@@ -1,5 +1,4 @@
 pomme 
 fraise
 banane
-poire 
-Ananas
+litchi
